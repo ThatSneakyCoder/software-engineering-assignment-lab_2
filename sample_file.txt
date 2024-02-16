@@ -1,1 +1,1 @@
-T
+This is a sample file written in the main branch.
