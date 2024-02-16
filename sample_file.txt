@@ -1,1 +1,2 @@
 This is a sample file written in the main branch.
+This second line has been added in the 'new_branch_1'.
